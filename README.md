@@ -6,6 +6,9 @@
      pkg install python
      pkg install git
      pip install requests
-     
+     git clone https://github.com/LMNx9- JOHNY/LMNx9_IP_INFO
+     cd LMNx9_IP_INFO
+     chmod +x *
+     python LMNx9_IP_INFO_v2.0.py
 
-# @DARK_LMNx9 😈
+# t.me/DARK_LMNx9😈
